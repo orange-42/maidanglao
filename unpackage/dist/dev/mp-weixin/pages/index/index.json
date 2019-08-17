@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "麦当当",
+  "usingComponents": {
+    "swipers": "/component/swipers"
+  }
+}

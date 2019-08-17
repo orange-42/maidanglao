@@ -1,0 +1,35 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/dinner/index/index",
+    "pages/dinner1/index"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "麦当当",
+    "navigationBarBackgroundColor": "#100F14",
+    "backgroundColor": "#100F14"
+  },
+  "tabBar": {
+    "color": "#515151",
+    "selectedColor": "#e16531",
+    "borderStyle": "black",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "iconPath": "static/home1.png",
+        "selectedIconPath": "static/home.png",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/dinner1/index",
+        "iconPath": "static/dinner1.png",
+        "selectedIconPath": "static/dinner.png",
+        "text": "点餐"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

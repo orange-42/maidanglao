@@ -1,0 +1,22 @@
+
+.content {
+		text-align: center;
+		height: 400rpx;
+}
+.swipers{
+		/* margin-top:20upx ; */
+}
+.swiper-item{
+		width: 100%;
+}
+.a {
+		width: 100%;
+		height:250rpx;
+}
+swiper{
+height:200px
+}
+swiper-item{
+height:200px
+}
+

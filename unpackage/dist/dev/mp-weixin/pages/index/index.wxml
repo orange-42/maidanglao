@@ -1,0 +1,1 @@
+<view class="content"><swipers vue-id="1" bind:__l="__l"></swipers><view class="pic_box"><block wx:for="{{list}}" wx:for-item="item" wx:for-index="index" wx:key="index"><view class="pic_item"><view class=".pic_item"><image style="width:30vw;height:30vw;object-fit:cover;" src="{{item.pic}}"></image></view></view></block></view></view>
